@@ -30,5 +30,6 @@ More info about dataset can be found here:
 2. Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
 
 ## Data Model
+https://lucid.app/lucidchart/fbd8292e-7bef-407f-b2c7-2f283eb999ba/edit?invitationId=inv_b003295c-e54d-4d8d-a128-67e6ce8a839b
 <img src="data_model.jpeg">
 
